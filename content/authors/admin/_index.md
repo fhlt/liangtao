@@ -28,7 +28,7 @@ education:
   courses:
   - course: 计算机技术
     institution: 中国科学院大学
-    year: 2012
+    year: 2018~
   - course: 计算机科学与技术
     institution: 重庆理工大学
     year: 2014~2018
@@ -72,4 +72,4 @@ highlight_name: false
 ---
 梁涛，现就读于中国科学院-信息工程研究所-网络空间技术实验室。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
